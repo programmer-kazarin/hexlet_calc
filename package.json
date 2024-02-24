@@ -1,0 +1,33 @@
+{
+  "name": "hexlet_calc",
+  "version": "1.0.0",
+  "description": "Прикл.Прог.->1курс->Задания->this",
+  "bin": {
+    "calc": "bin/games.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/programmer-kazarin/hexlet_calc.git"
+  },
+  "keywords": [
+    "hexlet"
+  ],
+  "author": "Kazarin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programmer-kazarin/hexlet_calc/issues"
+  },
+  "homepage": "https://github.com/programmer-kazarin/hexlet_calc#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  }
+}
